@@ -68,3 +68,21 @@ a:hover {
 
 
 /* Estilos da página contato.html */
+
+.contato {
+    display: flex;
+    flex-flow: row;
+    justify-content: left;
+    align-items: center;
+    width: 60%;
+    margin: 0 auto;
+}
+
+#endereco {
+    margin: 10px;
+}
+
+#mapa {
+    margin: 50px;
+    align-items: center;
+}
